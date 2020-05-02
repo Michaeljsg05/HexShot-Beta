@@ -1,7 +1,7 @@
 # Hexshot BETA
 
 **CURRENTLY NOT IN DEVELOPMENT / TEMPORARILY DISCONTINUED**
-![img](https://raw.githubusercontent.com/Michaeljsg05/michaeljsg05.github.io/master/img/HexshotPic1.PNG)
+![img](https://github.com/Michaeljsg05/michaeljsg05.github.io/blob/master/img/HexshotPic1.png?raw=true)
 
 ## Version:
 <h3>1.5.3</h3>
